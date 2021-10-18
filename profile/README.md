@@ -1,6 +1,6 @@
 # NezukoBot Team
 
-<img src="https://nezukobot.xyz/favicon.png">
+<a href="nezukobot.xyz"><img src="https://nezukobot.xyz/favicon.png"></a>
 
 Chào mừng bạn đã đến với trang GitHub (Gít húp) của NezukoBot, nơi đây chứa toàn bộ code của chúng tôi (tất nhiên là Private) và các tài liệu về nó!
 
